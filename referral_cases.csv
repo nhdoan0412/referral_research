@@ -1,0 +1,11 @@
+case_id,initial_note,gold_department,gold_urgency,source_dataset
+case_001,"Patient reports chest pain, shortness of breath, and fatigue during mild exercise.","Cardiology","Urgent","synthetic_test"
+case_002,"Patient has chronic knee pain after a sports injury. Pain worsens when walking upstairs.","Orthopedics","Routine","synthetic_test"
+case_003,"Patient has an itchy skin rash for three weeks with redness and dry patches.","Dermatology","Routine","synthetic_test"
+case_004,"Patient reports frequent headaches, dizziness, and occasional blurry vision.","Neurology","Routine","synthetic_test"
+case_005,"Patient has abdominal pain, nausea, and bloating after meals for the past month.","Gastroenterology","Routine","synthetic_test"
+case_006,"Patient reports irregular heartbeat, chest tightness, and dizziness after climbing stairs.","Cardiology","Urgent","synthetic_test"
+case_007,"Patient has worsening lower back pain radiating to the leg after lifting heavy boxes.","Orthopedics","Routine","synthetic_test"
+case_008,"Patient has acne-like bumps and painful red patches on the face for two months.","Dermatology","Routine","synthetic_test"
+case_009,"Patient reports numbness in the left arm, tingling, and recurring migraines.","Neurology","Urgent","synthetic_test"
+case_010,"Patient has acid reflux, stomach burning, and nausea after eating spicy food.","Gastroenterology","Routine","synthetic_test"
